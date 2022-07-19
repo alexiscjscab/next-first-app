@@ -1,7 +1,6 @@
 import Link from 'next/link';
 import { DarkLayout } from '../components/layouts/DarkLayout';
-// @ts-ignore
-import { MainLayout } from '../components/Layouts/MainLayout';
+import { MainLayout } from '../components/layouts/MainLayout';
 
 export default function About() {
   return (

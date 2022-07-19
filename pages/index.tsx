@@ -1,6 +1,5 @@
 import Link from 'next/link';
-// @ts-ignore
-import { MainLayout } from '../components/Layouts/MainLayout';
+import { MainLayout } from '../components/layouts/MainLayout';
 
 export default function Home() {
   return (
